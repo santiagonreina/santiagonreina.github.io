@@ -12,7 +12,6 @@ margin: 0 auto;
 }
 ol {
     text-align: center;
-    float: center;
 }
 .small
 {
@@ -49,7 +48,7 @@ padding-bottom: 50px;
     line-height: 50px;   
     text-decoration: none;
     border-radius: 40px;
-    background-color: #FFFAD7;
+    background-color: #567189;
     padding: 20px 30px 20px 30px;
     color: black;
 }
@@ -59,7 +58,7 @@ padding-bottom: 50px;
     line-height: 50px;   
     text-decoration: none;
     border-radius: 40px;
-    background-color: #FFFAD7;
+    background-color: #567189;
     padding: 20px 30px 20px 30px;
     color: black;
 }
@@ -69,7 +68,7 @@ padding-bottom: 50px;
     line-height: 50px;   
     text-decoration: none;
     border-radius: 40px;
-    background-color: #FFFAD7;
+    background-color: #567189;
     padding: 20px 30px 20px 30px;
     color: black;
 }
