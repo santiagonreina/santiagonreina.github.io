@@ -1,0 +1,97 @@
+
+body{
+font-family: 'IBM Plex Sans', sans-serif;
+background-color: #E1D7C6;
+margin-top: 10%;
+}
+.profile{
+border-radius: 50%;
+width: 256px;
+height: 256px;
+margin: 0 auto;
+}
+ol {
+    text-align: center;
+}
+.small
+{
+    width: 30px;
+    height: 30px;
+}
+section{
+    text-align: center;
+    font-weight: 400;
+    margin: 0 auto;
+    width: 100%;
+}
+h1{
+    font-size: 26px;
+    font-weight: 700;
+    font-display: 700;
+    text-align: center;
+    width: 100%;
+}
+.card{
+    display: inline-block;
+    text-align: justify center;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 2px;
+    width: 100%;
+    }
+.boton{
+padding-bottom: 50px;
+}
+.btn1{
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 50px;   
+    text-decoration: none;
+    border-radius: 40px;
+    background-color: #567189;
+    padding: 20px 30px 20px 30px;
+    color: black;
+}
+.btn2{
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 50px;   
+    text-decoration: none;
+    border-radius: 40px;
+    background-color: #567189;
+    padding: 20px 30px 20px 30px;
+    color: black;
+}
+.btn3{
+    font-weight: 700;
+    letter-spacing: 1px;
+    line-height: 50px;   
+    text-decoration: none;
+    border-radius: 40px;
+    background-color: #567189;
+    padding: 20px 30px 20px 30px;
+    color: black;
+}
+.btn1:hover{
+background-image: url(images/boton1.png);
+    background-position:center;
+    font-size: 30px;
+    color: black;
+}
+.btn2:hover{
+    background-image: url(images/boton2.jpg);
+    background-position:center;
+    font-size: 30px;
+    color:  orangered;
+}
+.btn3:hover{
+    background-image: url(images/boton3.jpg);
+    background-position: center;
+    font-size: 30px;
+    color: white;
+}
+footer{
+    width: 100%;
+    padding-top: 10%;
+    text-align: right;
+}
