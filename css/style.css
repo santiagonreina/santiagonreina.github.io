@@ -72,6 +72,16 @@ padding-bottom: 50px;
     padding: 20px 30px 20px 30px;
     color: black;
 }
+    .btn4{
+        font-weight: 700;
+        letter-spacing: 1px;
+        line-height: 50px;   
+        text-decoration: none;
+        border-radius: 40px;
+        background-color: #567189;
+        padding: 20px 30px 20px 30px;
+        color: black;
+}
 .btn1:hover{
 background-image: url(images/boton1.png);
     background-position:center;
@@ -89,6 +99,12 @@ background-image: url(images/boton1.png);
     background-position: center;
     font-size: 30px;
     color: white;
+}
+    .btn4:hover{
+        background-color:#567189;
+        background-position: center;
+        font-size: 30px;
+        color:#E1D7C6;
 }
 footer{
     width: 100%;
